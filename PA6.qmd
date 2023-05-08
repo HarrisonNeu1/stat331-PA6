@@ -5,3 +5,6 @@ editor: source
 self-contained: true
 ---
 
+```{r}
+13*13
+```
