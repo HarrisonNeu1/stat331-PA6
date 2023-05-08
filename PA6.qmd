@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Zach Ward, Alex, Yiling, Harrison"
 format: html
 editor: source
 self-contained: true
