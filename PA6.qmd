@@ -1,5 +1,10 @@
 ---
 title: "Practice Activity 6"
+<<<<<<< HEAD
+author: "Zach Ward, Alex Yuan, Yiling Zheng, Harrison Neuharth"
+=======
+author: "Zach Ward, Alex, Yiling, Harrison"
+>>>>>>> 8d2e9e7f1ef71fea709ba43829b3995135962603
 format: html
 editor: source
 self-contained: true
